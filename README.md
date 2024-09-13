@@ -1,1 +1,1 @@
-
+This was a project for an object orientated programming in C++ module at University. The aim of this project was to simulate a Particle Detector. Methods of abstraction, inheritance, polymorphism, and encapsulation were implemented successfully using two class hierarchies. The hierarchies were classified by particle and detector. Subdetectors were contained in a vector to simulate a real-life detector. Particles were passed through and results such as energy and identification efficiencies were found.
