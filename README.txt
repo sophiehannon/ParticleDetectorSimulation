@@ -1,0 +1,1 @@
+g++ -std=c++17 -g main.cpp Particle.cpp CalorimeterEnergy.cpp CalorimeterParticles.cpp Muon.cpp Neutrino.cpp Tau.cpp Detector.cpp ChargedParticleDetector.cpp Tracker.cpp Calorimeter.cpp MuonDetector.cpp RandomGenerators.cpp EmDeposits.cpp CompleteDetector.cpp -o main.exe
